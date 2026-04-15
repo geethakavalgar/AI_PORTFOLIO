@@ -1,6 +1,0 @@
-EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
-GENERATION_MODEL_NAME = "google/flan-t5-base"
-CHUNK_SIZE = 800
-CHUNK_OVERLAP = 120
-TOP_K = 4
-MAX_NEW_TOKENS = 256
