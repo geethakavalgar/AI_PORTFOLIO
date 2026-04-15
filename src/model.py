@@ -1,4 +1,3 @@
-
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 from src.utils import extract_keywords, top_terms
